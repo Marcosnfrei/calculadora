@@ -1,3 +1,3 @@
 # calculadora
 
-Acesse:  https://marcosnfrei.github.io/calculadora/
+Acesse:  https://marcosfreiberger.github.io/calculadora/
